@@ -108,7 +108,7 @@ export default function Home() {
           <div className="flex flex-col sm:flex-row items-center justify-center gap-4 mb-16">
             <Button asChild size="lg" className="px-6">
               <Link
-                href="https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FAssistLoop%2Fnextjs-template&env=NEXT_PUBLIC_ASSISTLOOP_AGENT_ID&envDescription=Agent%20ID%20from%20AssistLoop%20dashboard&integration-ids=oac_JcDufklR2a4mGqWCzSOB1klc&products=%5B%7B%22type%22%3A%22integration%22%2C%22integrationSlug%22%3A%22assistloop%22%2C%22productSlug%22%3A%22assistloop%22%2C%22protocol%22%3A%22ai%22%7D%5D)"
+                href="https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FAssistLoop%2Fnextjs-template&env=NEXT_PUBLIC_ASSISTLOOP_AGENT_ID&envDescription=Agent%20ID%20from%20AssistLoop%20dashboard&integration-ids=oac_JcDufklR2a4mGqWCzSOB1klc&products=%5B%7B%22type%22%3A%22integration%22%2C%22integrationSlug%22%3A%22assistloop%22%2C%22productSlug%22%3A%22assistloop%22%2C%22protocol%22%3A%22ai%22%7D%5D"
                 target="_blank"
                 rel="noopener noreferrer"
               >
